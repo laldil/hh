@@ -1,0 +1,10 @@
+.card-text{
+    margin: 0;
+}
+.vacanciesList{
+    margin: 2rem 10rem 0 10rem;
+}
+.card-body{
+    background-image: url("https://www.glossary-internet.ru/upload/medialibrary/df1/df14db5f5137ae8edf70c9c871ac7b9d.png");
+    background-size: 35% 100%;
+}
